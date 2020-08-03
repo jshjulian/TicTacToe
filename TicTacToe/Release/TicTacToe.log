@@ -1,0 +1,8 @@
+﻿  TicTacToe.cpp
+C:\dev\TicTacToe\TicTacToe\TicTacToe.cpp(217,24): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  3 of 210 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TicTacToe.vcxproj -> C:\dev\TicTacToe\Release\TicTacToe.exe
